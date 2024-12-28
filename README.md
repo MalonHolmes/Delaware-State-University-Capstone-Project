@@ -10,24 +10,29 @@
 **Problem Statement** – describes the problem or issue that will be addressed by this work. Articulate your objectives without using jargon. 
     This section should address the what, why, who, how, when, and where.
     
-    **What** is the goal? 
+**What** is the goal? 
         The goal of this capstone project is to come up with an all in one fully interactive map/information and notification system for Delaware State University, 
         possibly using Augmented Reality.
-    **Why** does DSU need this? 
+
+**Why** does DSU need this? 
         Currently, there isn’t a very interactive map of the campus, 
         so if anyone is lost on campus and needs to know where a certain building is or what time the cafeteria closes, 
         or information about certain recreational sports, the user would be able to get that. 
         It would mainly be used for navigating campus, retrieving information/history on buildings and landmarks on campus,
         all food places on campus, etc. The Augmented Reality comes in when someone needs the quickest path from one building on campus to another. 
-    **Who** would use this? 
+
+**Who** would use this? 
         Anyone can use the interactive, but in order to get directions from one building to another,
         they need to be on campus, so mainly students and faculty would use this part. 
-    **How** would I accomplish this? 
+
+**How** would I accomplish this? 
         I had a class last semester that played around with the idea of an interactive map with data visualization sprinkled in, 
         so I would research that more. Also, Dr. Kong is my advisor, and he recommends me start with Unity or Blender to figure out the Augmented Reality part.
-    **When** would I work on this/How often? 
+
+**When** would I work on this/How often? 
         I would work on this 3-4 times a week, and since I only have two classes this semester, that should be fine time-wise.
-    **Where** would I work on this?  
+
+**Where** would I work on this?  
         I’m going to have to be on campus to get a full scope of the campus and get as much information to put into the map as possible,  but I can develop all of it wherever.
 
 **Significance of Work** – describes the extent to which this work affects, or is important to, the intended field or organization.
